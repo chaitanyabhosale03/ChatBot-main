@@ -37,7 +37,11 @@ cd into your directory
 python app.py
 ```
 
+##What To Do?
 
+Create a two new sepreate folder1<name> "templates" and folder2<name> "static".
+1. Copy "chat.html" into 'templates' folder.
+2. &, then Copy "style.css" file into 'static' folder
 
 ## What you will create
 
